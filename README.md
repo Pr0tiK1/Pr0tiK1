@@ -12,7 +12,7 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 - <h2>📫 How to reach me ...</h2>
-You can reach me with Discord.
+You can reach me with Discord or my Instagram.
 My Discord username is pro.tik_
 
 Thank you so much for reading,
