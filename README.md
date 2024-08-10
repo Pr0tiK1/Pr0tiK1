@@ -15,11 +15,6 @@
 You can reach me with discord.
 My discord username is pro.tik_
 
-- <h2>💻 Operating systems I use:</h2>
-  Windows 10
-  Kali Linux
-  Android
-
 Thank you so much for reading,
 see yall later, peace ✌️
 <!---
