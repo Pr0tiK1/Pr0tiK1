@@ -16,8 +16,8 @@ You can reach me with discord.
 My discord username is pro.tik_
 
 - <h2>💻 Operating systems I use:</h2>
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-  ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+  Windows 10 
+  Kali Linux
 
 Thank you so much for reading,
 see yall later, peace ✌️
