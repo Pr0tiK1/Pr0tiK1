@@ -13,7 +13,7 @@
 
 - <h2>📫 How to reach me ...</h2>
 You can reach me with discord.
-my discord username is pro.tik_
+My discord username is pro.tik_
 
 - <h2>💻 Operating systems I use:</h2>
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
